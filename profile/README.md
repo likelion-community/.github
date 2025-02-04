@@ -1,6 +1,4 @@
 # EVERION
-<img src="https://github.com/user-attachments/assets/28b45512-f8e8-477b-b5f9-38f38e885e0f" width="300" />
-
 2024 멋쟁이사자처럼 12기 4호선톤에서 진행한 프로젝트 EVRION은 멋쟁이사자처럼 회원들만을 위한 커뮤니티 플랫폼입니다. 독립적인 커뮤니티를 구축해서 다양한 트랙 및 학교 간 소통을 강화하고 출석 및 활동을 효율적으로 관리할 수 있도록 도와줍니다.
 
 ## Team
